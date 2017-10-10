@@ -1,0 +1,14 @@
+Duffner-P-K.  Cohen-M-E.
+
+Cystic fibrosis with brain abscess.
+
+BRAIN-ABSCESS: co.  CYSTIC-FIBROSIS: co.
+STREPTOCOCCAL-INFECTIONS: co.
+
+ADULT.  BRAIN-ABSCESS: ra.  BRAIN: ra.  CASE-REPORT.  HUMAN.  MALE.
+STREPTOCOCCAL-INFECTIONS: ra.  TOMOGRAPHY-X-RAY-COMPUTED.
+
+A 21-year-old patient with cystic fibrosis developed bilateral brain
+abscesses due to anaerobic Streptococcus. This rare association
+presents an interesting etiologic study.
+
