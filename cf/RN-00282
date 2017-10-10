@@ -1,0 +1,15 @@
+Editorial: Pseudomonas vaccines.
+
+BACTERIAL-VACCINES.  PSEUDOMONAS-AERUGINOSA.
+PSEUDOMONAS-INFECTIONS:  pc.
+
+ACUTE-DISEASE.  BACTERIAL-VACCINES: tu.  CYSTIC-FIBROSIS: co.  HUMAN.
+IMMUNITY-ACTIVE.  LEUKEMIA: co.  PSEUDOMONAS-INFECTIONS: co.
+
+Few antibiotics have therapeutic value against Pseudomonas
+aeruginosa, and each of them has shortcomings.  It is therefore
+important to try and prevent pseudomonas infection in patients with
+severe burns, immunodeficiency, cystic fibrosis, and other conditions
+or methods of treatment that make them particularly susceptible to
+invasion by these bacteria.
+

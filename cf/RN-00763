@@ -1,0 +1,18 @@
+Warren-Lober-C.
+
+Manifestations of cystic fibrosis.
+
+CYSTIC-FIBROSIS: di.
+
+BILIARY-TRACT-DISEASES: pa.  CYSTIC-FIBROSIS: co, pa.
+DIAGNOSIS-DIFFERENTIAL.  FEMALE.  GASTROINTESTINAL-DISEASES: et.
+GENITAL-DISEASES-FEMALE: pa.  HUMAN.  LIVER-DISEASES: pa.  LUNG: pa.
+MALE.  SWEAT-GLANDS: pa.  SWEATING.  WATER-ELECTROLYTE-IMBALANCE: di.
+
+The diagnosis of cystic fibrosis is usually established by the
+presence of chronic obstructive lung disease and/or gastrointestinal
+compromise, together with elevated sweat electrolytes or pathologic
+changes in tissue. Because of its highly variable genetic penetrance,
+the disease is characterized by varying degrees of involvement of
+different exocrine systems.
+

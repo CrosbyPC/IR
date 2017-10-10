@@ -1,0 +1,28 @@
+Lewis-S-M.
+
+Emptying patterns of the lung studied by multiple-breath N2 washout.
+
+MODELS-BIOLOGICAL.  RESPIRATION.
+
+ADULT.  AGING.  CHILD.  CYSTIC-FIBROSIS: pp.  HUMAN.
+LUNG-DISEASES-OBSTRUCTIVE: pp.  LUNG-VOLUME-MEASUREMENTS.
+LUNG: ph, pp.  NITROGEN.  RESPIRATORY-DEAD-SPACE.
+SUPPORT-U-S-GOVT-P-H-S.  SUPPORT-U-S-GOVT-NON-P-H-S.
+
+Changes in the nitrogen concentration seen during the single-breath
+nitrogen washout reflect changes in relative flow (V) from units with
+differing ventilation/volume ratios (V/V0). The multiple-breath
+washout provides sufficient data for the V for units with varying
+V/V0 to be plotted as a function of the volume expired. Flow from the
+dead space may also be determined. In young normals the emptying
+patterns are narrow and unimodal throughout the alveolar plateau with
+little or no flow from the dead space at the end of the breath. Older
+normals show more flow from the dead space, particularly toward the
+end of the breath, and some show a high V/V0 mode early in the
+breath. Patients with obstructive lung disease have a high flow from
+the dead space which is present throughout the breath. A well
+ventilated mode at the end of the breath is seen in some obstructed
+subjects. Patients with cystic fibrosis showed a poorly ventilated
+mode appearing at the end of the breath as well as a very high dead
+space.
+
